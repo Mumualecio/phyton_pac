@@ -1,0 +1,9 @@
+todos os comandos começam com git
+
+git status - verifica um arquivo novo ou modificação no rerpositorio
+git clone url - ele clona o repositório
+git add . - ele adiciona todos os arquivos novos e modificações
+git add (o nome do arquivo) - ele adiciona só um arquivo
+git commit -m (minha descrição sobre a modificação que eu quero)
+git push (ele adiciona os novos itens adicionados ao repositório na nuvem)
+git pull - ele adiciona os novos itens adicionados do seu repositório em nuvem no seu repositório local
