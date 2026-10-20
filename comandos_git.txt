@@ -9,14 +9,14 @@ git push (ele adiciona os novos itens adicionados ao repositório na nuvem)
 git pull - ele adiciona os novos itens adicionados do seu repositório em nuvem no seu repositório local
 
 
-#print(f'Nome: {nome}')
+#print(f"Nome: {nome}")
+
+#print(f"................{alguma informação que vc quer ela receba}")
 
 
-
-
-
-
-
+#>= 
+#<= 
+#!=
 
 
 
