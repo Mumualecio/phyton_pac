@@ -20,7 +20,10 @@ git pull - ele adiciona os novos itens adicionados do seu repositório em nuvem 
 
 
 
-
+Crie um programa que solicite o nome e a idade de uma pessoa.
+ Depois, classifique-a como Criança, Adolescente ou Adulto,
+de acordo com a idade, e exiba todas as informações
+de forma organizada.
 
 
 
