@@ -36,11 +36,19 @@ while contador>0:
 print(F"Fim! ")
 
 #exercicio2
+senha="01234"
+senha1=str(input("Digite a senha correta "))
 
 
+while senha1 != "01234 ":
+    print(f"A senha está correta ")
 
-
-
+while True:
+    senha2= str(input("digite a senha: "))
+    if senha == senha2:
+        break
+    else:
+        print("Senha incorreta!")
 
 #exercicio3
 
